@@ -29,8 +29,8 @@ To run this project, you need Python 3.6 or later. Follow these steps to set up 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/iris-eda-example.git
-   cd iris-eda-example
+   git clone https://github.com/ofrokon/eda.git
+   cd eda
    ```
 
 2. (Optional) Create and activate a virtual environment:
